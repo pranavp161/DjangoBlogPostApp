@@ -1,2 +1,1 @@
 # DjangoBlogPostApp
-# DjangoBlogPostApp
