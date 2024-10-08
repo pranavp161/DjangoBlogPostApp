@@ -1,1 +1,1 @@
-# SwapnilDJogdand-DjangoBlogPostApp
+# DjangoBlogPostApp
